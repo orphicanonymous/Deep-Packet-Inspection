@@ -5,7 +5,7 @@ This document explains **everything** about this project - from basic networking
 
 ---
 
-## Table of Contents
+## Table of Contents :
 
 1. [What is DPI?](#1-what-is-dpi)
 2. [Networking Background](#2-networking-background)
